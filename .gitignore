@@ -1,5 +1,5 @@
 .vs
-src/packages
-src/*/bin
-src/*/obj
+/src/packages
+/src/*/bin
+/src/*/obj
 *.csproj.user
