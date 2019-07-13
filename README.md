@@ -8,7 +8,7 @@ Try rebuilding the solution a few times.
 
 If that doesn't work, see this: https://stackoverflow.com/a/34391473/2052963
 
-It says to run this comment in the Package Manager Console (in this case, with the "Website" project selected as the default project):
+It says to run this command in the Package Manager Console (in this case, with the "Website" project selected as the default project):
 
 ```
 Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
